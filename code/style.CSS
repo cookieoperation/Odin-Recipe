@@ -1,0 +1,24 @@
+
+html{
+    background-image: linear-gradient(to right, #87ae73, #CCCCFF);
+}
+
+h3, p {
+    font-family: 'Google Sans', cursive;
+}
+
+div {
+    font-family: 'Edu NSW ACT Cursive', cursive;
+    background-color: #008080;
+    border-radius: 15px;
+}
+
+img {
+    border-radius: 25px;
+}
+
+a {
+    font-family: 'Edu NSW ACT Cursive', cursive;
+    color: #000000;
+    text-decoration: none;
+}
