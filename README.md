@@ -8,7 +8,7 @@ It uses basic HTML and maybe some(OR NOT!) CSS to collect a bunch of ~~easy~~ a 
 
 First just open a terminal on a mac or linux computer and type in this:
 
-`https://github.com/ArjitKhatri/Odin-Recipe
+`https://github.com/ArjitKhatri/Odin-Recipe`
 
 then open the HTML file in a chrome-based browser
 
